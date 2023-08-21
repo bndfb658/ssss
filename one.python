@@ -1,4 +1,5 @@
 a=80
 b=20
-sum=a+b
+mul=a*b
+
 
